@@ -1,1 +1,1 @@
-# phyton_study
+# python_study
